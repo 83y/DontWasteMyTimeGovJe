@@ -1,4 +1,4 @@
-# DontWasteMyTimeGovJe (Broken ATM)
+# DontWasteMyTimeGovJe (Fixed, should be working)
 Allows you to automatically notify you through discord when a driving test is available.
 
 Instructions:
